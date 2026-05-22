@@ -3,7 +3,7 @@
 💻 Soy **desarrolladora Full-Stack en formación**, estudiante de Ingeniería en Informática y certificada en **Full Stack Python y Django** por Skillnest.  
 🎯 Me interesa crear soluciones tecnológicas útiles, aprender nuevas herramientas y seguir creciendo en el mundo del desarrollo web.  
 🌎 Cuento con nivel de inglés **C2 Proficient**, certificado por EF SET.  
-📍 Chile | 🌐 [Portafolio](https://mganeira.github.io/portafolio/#)
+📍 Chile | 🌐 [Portafolio](https://marielgdev.github.io/portafolio/#)
 
 ---
 
