@@ -1,78 +1,57 @@
-# ¡Hola, soy Mariel Gajardo! 👋
+# Mariel Gajardo
 
-💻 Soy **desarrolladora Full-Stack en formación**, estudiante de Ingeniería en Informática y certificada en **Full Stack Python y Django** por Skillnest.  
-🎯 Me interesa crear soluciones tecnológicas útiles, aprender nuevas herramientas y seguir creciendo en el mundo del desarrollo web.  
-🌎 Cuento con nivel de inglés **C2 Proficient**, certificado por EF SET.  
-📍 Chile | 🌐 [Portafolio](https://marielgdev.github.io/portafolio/#)
+Desarrolladora Full-Stack Junior en formación · Python y Django
+Estudiante de Ingeniería en Informática, INACAP Temuco · Lautaro, Chile
 
----
+Antes de programar sistemas trabajé en uno: un supermercado, con inventario, reposición, caja y pedidos en línea. Hoy construyo software pensando en quienes lo usan a diario y en los procesos que tiene que resolver.
 
-## 🚀 Sobre mí
-
-Me considero una persona calmada, responsable y comprometida.  
-Me gusta la tecnología, los videojuegos, los animales y la comida. Actualmente estoy enfocada en fortalecer mis habilidades como desarrolladora, especialmente en backend con Python y Django, desarrollo web y buenas prácticas de programación.
-
-Busco oportunidades donde pueda seguir aprendiendo, aportar con compromiso y desarrollarme profesionalmente en el área tecnológica.
+[Portafolio](https://marielgdev.github.io/portafolio/) · [LinkedIn](https://www.linkedin.com/in/mariel-gajardo-7a5462375/) · [Correo](mailto:TU_CORREO)
 
 ---
 
-## 🧩 Proyectos destacados
+## Enfoque
 
-| Proyecto | Descripción | Tecnologías | Demo |
-|----------|-------------|-------------|------|
-| Portafolio Web | Sitio personal para mostrar mi perfil, habilidades y proyectos. | HTML · CSS · JavaScript | [Ver demo](https://marielgdev.github.io/portafolio/#) |
-| Próximo proyecto | Proyecto en desarrollo. | Python · Django | Próximamente |
+- Backend con Python y Django: modelos, vistas, autenticación y APIs REST.
+- Aplicaciones con lógica de negocio real: inventario, pedidos, control de stock.
+- Código legible y versionado con Git desde el primer commit.
 
----
+## Proyectos
 
-## 🛠️ Tecnologías y herramientas
+| Proyecto | Qué resuelve | Stack | Enlace |
+|----------|--------------|-------|--------|
+| Portafolio web | Presenta mi perfil y proyectos en un sitio propio | HTML · CSS · JavaScript | [Demo](https://marielgdev.github.io/portafolio/) |
 
-**Frontend:**  
-HTML · CSS · JavaScript
+## Stack
 
-**Backend:**  
-Python · Django
+| Área | Herramientas |
+|------|--------------|
+| Backend | Python, Django, REST API |
+| Frontend | HTML, CSS, JavaScript |
+| Datos | SQL, MongoDB |
+| Herramientas | Git, GitHub, Figma, VS Code |
 
-**Bases de datos:**  
-SQL · MongoDB
+## En estudio
 
-**Control de versiones:**  
-Git · GitHub
+- Despliegue de aplicaciones Django y flujos básicos.
+- Integración de APIs de IA en aplicaciones web.
+- Despliegue de aplicaciones: Lanzamiento de aplicaciones Django y configuración de flujos básicos.
+- Integración de IA: Conexión de APIs de Inteligencia Artificial en aplicaciones web.
+- Web scraping: Aprendizaje profundo sobre la extracción automatizada de datos web y sus mecánicas de funcionamiento.
+- Sistemas satelitales: Comprensión del funcionamiento técnico, redes y transmisión de datos en tecnología satelital.
+- TypeScript: Dominio del lenguaje, tipado estático y su aplicación en el desarrollo moderno.
 
-**Herramientas:**  
-REST API · Figma · VS Code · Ofimática básica
+## Formación
 
----
+- Full Stack Python y Django, Skillnest
+- Ingeniería en Informática, INACAP Temuco (en curso)
+- Inglés C2 Proficient, EF SET (72/100)
 
-## 📚 Actualmente estoy aprendiendo
+## Experiencia previa
 
-- Integración de **inteligencia artificial** y análisis de datos en aplicaciones web.
-- Optimización de rendimiento en proyectos desarrollados con **Django**.
-- Buenas prácticas de desarrollo web, despliegue y **CI/CD**.
-- Mejora continua en arquitectura de proyectos Full-Stack.
+Colaboradora multifuncional en supermercado: atención al cliente, caja, reposición, control de inventario y preparación de pedidos en línea. 
 
----
+## Fuera del código
 
-## 🎓 Certificaciones
+Videojuegos, animales y repostería.
 
-- **Full Stack Python y Django** - Skillnest  
-- **EF SET English Certificate** - 72/100, nivel **C2 Proficient**
-
----
-
-## 💼 Experiencia complementaria
-
-Cuento con experiencia laboral en atención al cliente, caja, reposición, control de inventario, preparación de pedidos en línea y trabajo en equipo en contexto de supermercado.  
-Esta experiencia me ha permitido desarrollar responsabilidad, organización, comunicación efectiva y capacidad para seguir procesos en entornos dinámicos.
-
----
-
-## 📫 Conecta conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariel%20Gajardo-blue?logo=linkedin)](https://www.linkedin.com/in/mariel-gajardo-7a5462375/)  
-[![Correo](https://img.shields.io/badge/Correo-mganeira@gmail.com-red?logo=gmail)](mailto:mganeira@gmail.com)  
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web-8A2BE2?logo=githubpages)](https://mganeira.github.io/portafolio/#)
-
----
-
-✨ Gracias por visitar mi perfil.
+[Portafolio](https://marielgdev.github.io/portafolio/) · [LinkedIn](https://www.linkedin.com/in/mariel-gajardo-7a5462375/) · [Correo](mailto:marielgajardoneira@gmail.com)
